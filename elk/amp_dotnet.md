@@ -2,7 +2,7 @@
 ## [Dowload](https://github.com/elastic/apm-agent-dotnet/releases) profile.dll  
 
 
-## Cobfih file webconfig for .NetFramework
+## Config file webconfig for .NetFramework
 ```
 <configuration>
   <appSettings>

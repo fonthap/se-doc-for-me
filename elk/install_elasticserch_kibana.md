@@ -85,6 +85,8 @@ systemctl start kibana
 ```
 # Elasticsearch and Kibana version 8
 
+## Elasticsearch
+
 Install with rpm 
 
 ```
