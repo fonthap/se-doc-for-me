@@ -14,7 +14,8 @@ vi /etc/yum.repos.d/local.repo
 
 local.repo
 
-```[Local]
+```
+[Local_8.5]
 name=Oracle Linux 8.5 x86_64
 baseurl=file:///local/AppStream
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY
